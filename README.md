@@ -3,6 +3,13 @@ Esaip PA with SIGMA Nantes on IA-Racing Competition, on donkeycar framework
 
 
 #This project is an Open-Source modification on the donkeycar project!
+# What type of IA file use?
+When you generate an IA with donkeycar, three files are created:
+        -mypilot.png
+        -mypilot.tflite
+        -mypilot.h5
+tflite and H5 are both IA, but H5is a lot more heavy than tflite. This can create, with h5, freeze during use, latency or others mistakes...
+We advise to use .tflite format!
 
 # How implement parts?
 A parts is a function that take place on the main loop of the program. All the parts have a specific order of call and its very important!
@@ -19,3 +26,6 @@ for exemple:
             inputs=['cam/image_array'] = cam/image_array is the current main image displayed in the web viewer and save for the IA generation. in inputs you define all the parameters of run() parts in your parts execept self. 
             outputs=['cam/image_array','imageoriginal'] = it's all the return var from run() parts in your parts. In this case cam/image_array get the modified image and we create a new var imageoriginal who is the initial image without modification.
             threaded = a parts can be threaded for exemple: for specific captors or others, not a good idea for image processing, color detection or others
+
+Good Luck and anjoy this project!
+For question contact us by email at hfabre.ing2022@esaip.org
