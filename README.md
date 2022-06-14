@@ -38,7 +38,7 @@ for exemple:
  - prepare in myconfig.py, parameters to easy modification on your var in parts
  - use a line detector (FC 51 ir sensor for exemple) to auto correct when line crossing 
 
-# usefull link:
+# Usefull link:
  - Live of the competition : https://www.youtube.com/watch?v=lWOdJ5ZOY6o
  - Donkeycar doc : https://docs.donkeycar.com/
  - Donkeycar Discord : https://discord.com/invite/PN6kFeA
