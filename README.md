@@ -39,9 +39,9 @@ for exemple:
  - use a line detector (FC 51 ir sensor for exemple) to auto correct when line crossing 
 
 # usefull link:
- -Live of the competition : https://www.youtube.com/watch?v=lWOdJ5ZOY6o
- -Donkeycar doc : https://docs.donkeycar.com/
- -Donkeycar Discord : https://discord.com/invite/PN6kFeA
+ - Live of the competition : https://www.youtube.com/watch?v=lWOdJ5ZOY6o
+ - Donkeycar doc : https://docs.donkeycar.com/
+ - Donkeycar Discord : https://discord.com/invite/PN6kFeA
 
 Good Luck and anjoy this project!
 For question contact us by email at hfabre.ing2022@esaip.org
