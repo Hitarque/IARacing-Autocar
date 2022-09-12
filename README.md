@@ -5,9 +5,9 @@ ESAIP Engineering School Applicative Project with SIGMA Nantes for IA-Racing Com
 #This project is an Open-Source modification on the donkeycar project!
 # What type of IA model file is used?
 When you generate an IA (model) with donkeycar, three files are created:
-        -mypilot.png
-        -mypilot.tflite
-        -mypilot.h5
+        - mypilot.png
+        - mypilot.tflite
+        - mypilot.h5
 
 tflite and H5 are both model files, but H5is a lot more heavy than tflite. This can create, with h5, freeze during use, latency or others mistakes...
 
