@@ -48,4 +48,4 @@ For example:
 
 Good Luck and enjoy this project!
 
-For any questions, contact us by email at hfabre.ing2022@esaip.org
+For any questions, contact us by email (use school emails)
